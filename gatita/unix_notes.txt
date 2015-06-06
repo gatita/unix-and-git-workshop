@@ -1,0 +1,39 @@
+Design & History
+=================
+
+Multi-process: Can do more than one thing at a time
+
+Released in 1973
+
+Designed with three main features in mind -
+1. Data available as plain text
+2. Many small programs
+3. Input-Output redirection
+
+
+Commands
+=========
+
+ls -t changes the order of the listing so that the most recently modified items are first.
+
+ls -r reverse the ordering
+
+/  to search inside a pager
+space to move a full screen forward at once inside a pager
+
+history n - list the last n actions
+
+
+Unix Naming Conventions
+=======================
+
+In general, don't use spaces in the sames of things (use dashes or underscores to separate words)
+  -for the shell, underscore is usually preferred
+
+Prefer lowercase letters in naming files and directories
+
+
+
+
+
+

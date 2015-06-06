@@ -1,0 +1,14 @@
+what git keeps track of in snapshots
+=====================================
+
+-time stamp
+-comment
+-lines changed
+-author
+-hash (id)
+
+commands
+========
+
+git set-url origin git@github.com_url_for_remote
+  > reset url for remote repo
